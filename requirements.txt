@@ -1,0 +1,5 @@
+deepface
+matplotlib
+tf-keras
+opencv-python
+tk
